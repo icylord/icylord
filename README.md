@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=icylord&show_icons=true&theme=radical" />
-![icylord's GitHub stats](https://github-readme-stats.vercel.app/api?username=icylord&show_icons=true&theme=radical)
